@@ -16,7 +16,7 @@ body{
 
 
 @media (min-width: 1200px){
-    .bloc_page_index{
+    .bloc_page{
         margin-left: 16%;
         margin-right: 16%;
         background-color: #252525;
@@ -27,29 +27,21 @@ body{
 }
 
 @media (max-width: 1199px){
-    .bloc_page_index{
+    .bloc_page{
         background-color: #252525;
         border-radius: 5px;
         padding-bottom: 0.1%;
     }
 }
 
-.interieur_bloc_page_index{
+.interieur_bloc_page{
     margin-left: 1%;
     margin-right: 1%;
     margin-bottom: 1%;
 }
 
-.interieur_bloc_page_index p{
+.interieur_bloc_page p{
     text-align: justify;
-}
-
-.titre_page_index{
-    background-color: #ff9419;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
 }
 
 footer{

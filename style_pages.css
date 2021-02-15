@@ -1,15 +1,25 @@
+
+@media (min-width: 1001px){
+
 .logo_et_navigation{
     display: flex;
     background-color: #252525;
 }
 
-@media (min-width: 1001px){
+.titre_page{
+    background-color: #131212;
+    color: #ff9419;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
 
     /*NAV*/
 
 nav{
     margin-top: 0.8%;
-    margin-bottom: 0.5%;
+    margin-bottom: 0.8%;
 }
 
 li{
@@ -52,7 +62,15 @@ nav > ul > li > a:hover{
 }
 
 @media (max-width: 1000px){
-    
+
+.logo_et_navigation{
+    background-color: #252525;
+}
+
+.logo-principal{
+    width: 500px;
+}
+
     /*NAV*/
 
 nav{
@@ -78,12 +96,14 @@ nav > ul > li{
     text-decoration: none;
     color: white;
     font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
     
 nav > ul > li > a{
-    padding: 20px 30px;
+    padding: 10px 20px;
     color: white;
-    font-size: 1.3em;
+    font-size: 2.5em;
 }
 
 nav > ul > li > a:hover{

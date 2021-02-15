@@ -7,6 +7,13 @@ body{
     margin-top: 2%;
 }
 
+.titre_page{
+    background-color: #ff9419;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
 
 @media (min-width: 1001px){
 
@@ -83,12 +90,14 @@ nav > ul > li{
     text-decoration: none;
     color: white;
     font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
     
 nav > ul > li > a{
-    padding: 20px 30px;
+    padding: 10px 20px;
     color: white;
-    font-size: 1.3em;
+    font-size: 2.5em;
 }
 
 nav > ul > li > a:hover{
