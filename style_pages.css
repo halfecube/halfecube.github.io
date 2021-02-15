@@ -71,6 +71,15 @@ nav > ul > li > a:hover{
     width: 500px;
 }
 
+.titre_page{
+    background-color: #131212;
+    color: #ff9419;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
     /*NAV*/
 
 nav{
