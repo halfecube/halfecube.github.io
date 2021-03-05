@@ -11,37 +11,61 @@
 
   <url>
        <loc>https://halfecube.github.io/</loc>
-       <lastmod>2021-02-15T17:27:44+00:00</lastmod>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://halfecube.github.io/index.html</loc>
-       <lastmod>2021-02-15T17:27:44+00:00</lastmod>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://halfecube.github.io/news.html</loc>
-       <lastmod>2021-02-15T17:27:44+00:00</lastmod>
+       <loc>https://halfecube.github.io/serveurs.html</loc>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://halfecube.github.io/wiki.html</loc>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://halfecube.github.io/nous_rejoindre.html</loc>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://halfecube.github.io/partenaires.html</loc>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://halfecube.github.io/boutiques.html</loc>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://halfecube.github.io/credits.html</loc>
-       <lastmod>2021-02-15T17:27:44+00:00</lastmod>
+       <lastmod>2021-02-17T20:48:39+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://halfecube.github.io/CGU.pdf</loc>
-       <lastmod>2021-02-15T17:30:19+00:00</lastmod>
+       <lastmod>2021-03-05T20:03:56+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://halfecube.github.io/sitemap.xml</loc>
-       <lastmod>2021-02-15T17:30:19+00:00</lastmod>
+       <lastmod>2021-03-05T20:03:56+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
