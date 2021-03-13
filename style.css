@@ -34,8 +34,6 @@ body{
 .bouton_choix > div{
     background-color: #252525;
     border-radius: 5px;
-    margin: 5%;
-    margin-right: 1.5%;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 1%;
@@ -70,18 +68,30 @@ body{
         padding-bottom: 0.1%;
     }
 
+    .bouton_choix{
+    background-color: #252525;
+    margin-left: 16%;
+    margin-right: 16%;
+    background-color: #252525;
+    border-radius: 5px;
+    padding-bottom: 0.1%;
+    margin-top: 1.7%;
+}
+
 }
 
 @media (max-width: 1199px){
     .bloc_page{
         padding-bottom: 0.1%;
+        background-color: #2E2E2E;
     }
-
+    
     .bouton_choix{
-        text-align: center;
+        background-color: #252525;
         background-color: #252525;
         border-radius: 5px;
         padding-bottom: 0.1%;
+        margin-top: 1.7%;
     }
 }
 
@@ -109,12 +119,14 @@ footer{
     width: 20%;
     margin-left: 16%;
     padding-bottom: 2%;
+    text-align: justify;
 }
 
 .bloc_footer2{
     width: 20%;
     margin-left: 10%;
     margin-right: 17%;
+    text-align: justify;
 }
 
 .footer_end{
@@ -149,7 +161,6 @@ footer{
 
 
 @media (min-width: 1001px){
-
 
 .logo_et_navigation{
     display: flex;
